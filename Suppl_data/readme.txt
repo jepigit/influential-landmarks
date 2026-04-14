@@ -1,4 +1,4 @@
-The zip file contains the "Suppl_data" of the PNTD-D-25-01192 PLOSNTD submitted manuscript for publication.
+"Suppl_data" of the PNTD-D-25-01192 PLOSNTD submitted manuscript for publication.
 
 There are 7 subfolders: Aedes, Anopheles, Glossina, Sandflies, Stomoxys, Tabanus and Triatoma.
 
