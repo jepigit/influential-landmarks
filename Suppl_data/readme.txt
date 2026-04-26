@@ -46,7 +46,7 @@ The "HuitLM_Gpg-Gpp_40-18_Berte_F.txt" file contains the raw coordinates of the 
 Shod = Sergentomyia hodgsoni (Sinton, 1933) 
 Pstan = Phlebotomus stantoni (Newstead 1914)
 
-One file only, , containing the raw coordinates of 12 landmarks of 44 P. stantoni followed by the raw coordinates of 35 S. hodgsoni.
+One file only, containing the raw coordinates of 12 landmarks of 44 P. stantoni followed by the raw coordinates of 35 S. hodgsoni.
 
 5. subfolder Stomoxys.
 
